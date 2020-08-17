@@ -1,0 +1,11 @@
+.auth {
+  padding-top: 40px;
+}
+.cardAuthOutline {
+  width: 18rem;
+}
+.backLogin {
+  background-image: url(../uploads/category.png);
+  min-height: 90vh;
+  background-size: 100% 100%;
+}
